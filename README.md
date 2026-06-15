@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Pavankrishn! 👋
 
-<!--
-**Pavankrishn/Pavankrishn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student passionate about AI automation, database management, and full-stack development. I enjoy building functional applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack & Skills
+* **Languages:** Java, C, PHP
+* **Web:** React
+* **Database:** MySQL
+* **Tools & AI:** Git, Langflow, XAMPP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+* **AI Automation:** Designing agentic workflows for clinic operations.
+* **Systems Engineering:** Developing database-driven management systems.
+
+## 📫 Let's Connect
+* Feel free to reach out to me regarding my projects or potential collaborations!
